@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @edshikol
 - 👀 I’m interested in coding.
+- Learning HTML CSS & JAVASCRIPT
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on simple beginner python projects.
 - 📫 How to reach me edshikol@gmail.com
